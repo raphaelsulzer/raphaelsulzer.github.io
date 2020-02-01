@@ -804,6 +804,10 @@ nav#filter a {
 .flag-icon-fr {
   background-image: url('../img/icons/fr.svg');
 }
-.flag-icon-us {
-  background-image: url('../img/icons/us.svg');
+.flag-icon-gb {
+  background-image: url('../img/icons/gb.svg');
 }
+/*.flag-icon-us {
+  background-image: url('../img/icons/us.svg');
+}*/
+
