@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>flag-icon-css/fr.svg at master · lipis/flag-icon-css</title>
+  <title>flag-icon-css/gb.svg at master · lipis/flag-icon-css</title>
     <meta name="description" content=":flags: A collection of all country flags in SVG — plus the CSS for easier integration - lipis/flag-icon-css">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars0.githubusercontent.com/u/125676?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="lipis/flag-icon-css" /><meta property="og:url" content="https://github.com/lipis/flag-icon-css" /><meta property="og:description" content=":flags: A collection of all country flags in SVG — plus the CSS for easier integration - lipis/flag-icon-css" />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDg4MDU3Nzg1OjJiZTYzY2I2YWIzMWYyYTAxMDI4MDYyNDhjZDZmZmNkY2Y5Y2RjYzdhMDUwZGQ2MTc2MmNkMjA5ZjkxZDZjOWY=--fe4cebf9a2bcd19772d159314d3e3a8bf70a4b0d">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDg4MDU3Nzg1OmE4ODAwZjU3ZTE0MjYzMWU0ZWRlYzE1MmEyNTBmOTgyNjAyYzA1NTY0OTc4OWI4ODEyNzM3MDYxZmE0ZmI1NjI=--69a952dd6632fcff0b8911d00a5423af7f5a4940">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-    <meta name="request-id" content="4286:28287:15AEDB9:202F9F3:5E356288" data-pjax-transient="true" /><meta name="html-safe-nonce" content="141e1a5489bf96443ff0676fd8be5686f6124a04" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9saXBpcy9mbGFnLWljb24tY3NzL3RyZWUvbWFzdGVyL2ZsYWdzLzR4MyIsInJlcXVlc3RfaWQiOiI0Mjg2OjI4Mjg3OjE1QUVEQjk6MjAyRjlGMzo1RTM1NjI4OCIsInZpc2l0b3JfaWQiOiI0MjIwMzIwNTI1NDU2Mjk0NDcyIiwicmVnaW9uX2VkZ2UiOiJhbXMiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="16b30970d77501763a0c85817a8784d40b67c0d41c3beeb0dd816640f161d5a3" data-pjax-transient="true" />
+    <meta name="request-id" content="4286:28287:15AC1DF:202B7F1:5E35623D" data-pjax-transient="true" /><meta name="html-safe-nonce" content="141e1a5489bf96443ff0676fd8be5686f6124a04" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9saXBpcy9mbGFnLWljb24tY3NzL3RyZWUvbWFzdGVyL2ZsYWdzLzR4MyIsInJlcXVlc3RfaWQiOiI0Mjg2OjI4Mjg3OjE1QUMxREY6MjAyQjdGMTo1RTM1NjIzRCIsInZpc2l0b3JfaWQiOiI0MjIwMzIwNTI1NDU2Mjk0NDcyIiwicmVnaW9uX2VkZ2UiOiJhbXMiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="c333de2e4b6aa1f5366203e9342f4f1a299d4c5c3f586112bdda89ceb9f21d07" data-pjax-transient="true" />
 
 
 
@@ -74,7 +74,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="NTVjODk1MjU0NWYxN2ZkZjIyOWJhNDM3NTAzMzNlZGM0MDFiM2U2MDk1YjE4ODc3MzYzMDc2OWE5ZGFlZDM1NXx7InJlbW90ZV9hZGRyZXNzIjoiNDYuMjIzLjE2Mi4xNDkiLCJyZXF1ZXN0X2lkIjoiNDI4NjoyODI4NzoxNUFFREI5OjIwMkY5RjM6NUUzNTYyODgiLCJ0aW1lc3RhbXAiOjE1ODA1NTY5NDIsImhvc3QiOiJnaXRodWIuY29tIn0=">
+      <meta name="js-proxy-site-detection-payload" content="MjVjMjIxNmJjMDdlYTNhYWEyZWY5OWQwZTY4YjkyYmU2MTkzOGFlYTA0N2FkYWRkYTIwYTZiYjFhNzI3ODk1OXx7InJlbW90ZV9hZGRyZXNzIjoiNDYuMjIzLjE2Mi4xNDkiLCJyZXF1ZXN0X2lkIjoiNDI4NjoyODI4NzoxNUFDMURGOjIwMkI3RjE6NUUzNTYyM0QiLCJ0aW1lc3RhbXAiOjE1ODA1NTY4NjgsImhvc3QiOiJnaXRodWIuY29tIn0=">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,NOTIFY_ON_BLOCK,RELATED_ISSUES,GHE_CLOUD_TRIAL">
 
@@ -88,7 +88,7 @@
   <meta name="octolytics-dimension-user_id" content="125676" /><meta name="octolytics-dimension-user_login" content="lipis" /><meta name="octolytics-dimension-repository_id" content="13099301" /><meta name="octolytics-dimension-repository_nwo" content="lipis/flag-icon-css" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="13099301" /><meta name="octolytics-dimension-repository_network_root_nwo" content="lipis/flag-icon-css" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -161,7 +161,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-            <input type="hidden" value="qxKG/onn1ho+/Wtb9U7wpwGygUorRnnUyLiPOI8T0oQLrxT9t9XnFMK1JwOaReFT4mJSRjGZWni+Scy2Ah5DVQ==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+            <input type="hidden" value="Jp7uET8S9n5zT4UehwjYXkPtiLdAUSiaeDVbWjo61G6GI3wSASDHcI8HyUboA8mqoD1bu1qOCzYOxBjUtzdFvw==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -312,7 +312,7 @@
       <img class="avatar" height="20" width="20" alt="@raphaelsulzer" src="https://avatars3.githubusercontent.com/u/17256924?s=60&amp;v=4" />
       raphaelsulzer
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="05Co072U8/mpVkMO9h5ip2o10O/kjoy065ihZlVC3H/u7k9UZC8/IpwKkBfks8icOY89AJBc6MluElrzZIF/iA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="u8vMxuaidVGx1CWZR6nOS/FsufAp6k8+wYpixfcxlLGGtStBPxm5ioSI9oBVBGRwotZUH104K0NEAJlQxvI3Rg==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -405,7 +405,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:125676,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:17256924,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg&quot;}}" data-hydro-click-hmac="821dc0a8b00ae9fa6d5df68cae056dc98c8439cef47354487db1463a3db7471e">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:125676,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:17256924,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg&quot;}}" data-hydro-click-hmac="dcbb1552a8ebb09ec8c5772bfb574b297dd494881c6130041370a0d2f2a11b32">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -432,7 +432,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="7/VqHhcyESLS0kZqgE+tX4U17nbfgBglXsxZOUNZAJhMD9TMWhz1IqR+hDfL7sT4h5SdMKop3D3qoQ54CVvMQg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="itvoTAAOrhDzXnfGy3859SAtjDjvwaKq/YIuS8TdWWspIVaeTSBKEIXytZuA3lBSIoz/fppoZrJJ73kKjt+VsQ==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -550,17 +550,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-02-01T13:05:42+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-02-01T13:04:28+01:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-02-01T13:35:42+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-02-01T13:34:28+01:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-02-01T16:35:42+01:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-02-01T16:34:28+01:00">
             in 4 hours
           </button>
         </li>
@@ -618,10 +618,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/raphaelsulzer/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg&quot;,&quot;user_id&quot;:17256924}}"
-    data-feature-preview-close-hmac="696925d8e3d8a073cbd835fd09789049afce3c3e0e43cf6aa15c2bed5bbd8757"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg&quot;,&quot;user_id&quot;:17256924}}"
-    data-hydro-click-hmac="18db368df97e1f34207973fd536b20f6cf6d3d074166ed70bde95c98cd80cb31"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg&quot;,&quot;user_id&quot;:17256924}}"
+    data-feature-preview-close-hmac="b7025c8b06c0e3d5a7244af3b16ec73f8ab13f52f5f575b4563fbf11e9dca22f"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg&quot;,&quot;user_id&quot;:17256924}}"
+    data-hydro-click-hmac="7e54ec46f408a339334347c8491406d2d75cbbf2e346f510480ad31b77d1c377"
   >
     Feature preview
   </button>
@@ -630,12 +630,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1qSmce7s+BMptl1VMV+DUHIdDIj2FifsO/NKqH4E157r2kH2N1c0yBzqjkwj8ilrIafhZ4LEQ5G+ebE9T8d0aQ==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="NjNK6WBqC9oxC7//e6bJLZscDjjq911QADPeMRq6XWULTa1uudHHAQRXbOZpC2MWyKbj154lOS2FuSWkK3n+kg==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_d07e" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1580556942901" class="form-control" /><input type="hidden" name="timestamp_secret" value="d8b8470f710652f3026c361c68cf3ed8fa97e1e3415c7167c53f490ced9104a2" class="form-control" />
+      <input type="text" name="required_field_ffbf" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1580556868878" class="form-control" /><input type="hidden" name="timestamp_secret" value="f467a1cd41e81e6886696ac948ce7689027e105ed5d6a923c866a3c51b530381" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -757,10 +757,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="sGtRh9wuA8rIi5K+41y7nwX/NJpR8iO7IHrMDHUDNTVIiT/XxfAoz+fSUi6+1GLV4N5GSJQtVs7edr2A/p384Q==" />      <input type="hidden" name="repository_id" value="13099301">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="52/JnkiR4LyOBH29r3Oyu7gEgZTZvtvTtrJGjrn2+OAfjafOUU/LuaFdvS3y+2vxXSXzRhxhrqZIvjcCMmgxNA==" />      <input type="hidden" name="repository_id" value="13099301">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:13099301,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg&quot;,&quot;user_id&quot;:17256924}}" data-hydro-click-hmac="53e9c15c12c980968d964c073ce3897bd61a53b8422ed7701b9f52faa70ae4cc" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:13099301,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg&quot;,&quot;user_id&quot;:17256924}}" data-hydro-click-hmac="2081e8429186b2eae2875ae987920bcddec96e1efe4aa9eba0672daff2653ca9" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -831,9 +831,9 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/lipis/flag-icon-css/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FZiPX2/VOQF2mLyDNrKaDE4M/G/KzGSDNWS11nr22DJDLZI+YfTOLr1Cr/GsIQi+f8fnSvDuuMyuHaAD4EAuaA==" />
+    <form class="starred js-social-form" action="/lipis/flag-icon-css/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="B0W9fHy/bdbYZO1wIlfOKRsWxh6mlnZyIUYzlr3yeVFR8KAdcp6a+RO+/gK4xFybKt3dO5y0qj26PyZDJ0SPCw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar lipis/flag-icon-css" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:13099301,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg&quot;,&quot;user_id&quot;:17256924}}" data-hydro-click-hmac="1950734f388a993bf3ea12ee88d7101b11d75b30788a41bb955a3a153007e703" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar lipis/flag-icon-css" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:13099301,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg&quot;,&quot;user_id&quot;:17256924}}" data-hydro-click-hmac="539ee5a1a5e3bdf44ce73db27db92802da78c0ed09d12aa66c33a73826a34db9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Unstar
 </button>        <a class="social-count js-social-count" href="/lipis/flag-icon-css/stargazers"
@@ -841,9 +841,9 @@
            6.4k
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/lipis/flag-icon-css/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="E6IjfyXxO1aE3q5k5N9YAx2p+ElqLdpRZY/RzCy8uPwft0KmXs1Ld8s4dKCP1ntJLFWhviqAyCRKgZSTfigYKg==" />
+    <form class="unstarred js-social-form" action="/lipis/flag-icon-css/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DqUMqsckoxi7PehcovjdOkWM04fI24uiuQ5BlDNoLOYCsG1zvBjTOfTbMpjJ8f5wdHCKcIh2mdeWAATLYfyMMA==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star lipis/flag-icon-css" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:13099301,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg&quot;,&quot;user_id&quot;:17256924}}" data-hydro-click-hmac="89cd8ebc408edc3750313182ffd0cc784314b68f52dc803f132d708d9267d2a4" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star lipis/flag-icon-css" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:13099301,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg&quot;,&quot;user_id&quot;:17256924}}" data-hydro-click-hmac="4058a6bf848902c7596eb472aedc67a90dfa0522473831f631082a5bc98d5a5e" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg aria-label="star" height="16" class="octicon octicon-star v-align-text-bottom" viewBox="0 0 14 16" version="1.1" width="14" role="img"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Star
 </button>        <a class="social-count js-social-count" href="/lipis/flag-icon-css/stargazers"
@@ -856,7 +856,7 @@
 
   <li>
           <details class="details-reset details-overlay details-overlay-dark d-inline-block float-left">
-            <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:13099301,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg&quot;,&quot;user_id&quot;:17256924}}" data-hydro-click-hmac="c5310ce7792fe47f01ff7cc1e0a1e683ff5200b3c37cea1c8a6ef6f195e339ce" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" title="Fork your own copy of lipis/flag-icon-css to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+            <summary class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:13099301,&quot;originating_url&quot;:&quot;https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg&quot;,&quot;user_id&quot;:17256924}}" data-hydro-click-hmac="05e0e0aa6efd7662344739d5f9411897d2783c23b7b8d55ecb9b2ad969fb54bb" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" title="Fork your own copy of lipis/flag-icon-css to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </summary>            <details-dialog
               class="anim-fade-in fast Box Box--overlay d-flex flex-column"
@@ -1015,9 +1015,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lipis/flag-icon-css/blob/dc4a316075bebf7f738f8ac0aad10d5fd8ac8eb0/flags/4x3/fr.svg">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/lipis/flag-icon-css/blob/dc4a316075bebf7f738f8ac0aad10d5fd8ac8eb0/flags/4x3/gb.svg">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v21:050515e04388e3c4bec21ee35be977f3 -->
+    <!-- blob contrib key: blob_contributors:v21:0d6c1231bb5a7812e8d4753b9a5622e4 -->
       
 
     <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-column flex-md-row">
@@ -1032,7 +1032,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/lipis/flag-icon-css/refs/master/flags/4x3/fr.svg?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/lipis/flag-icon-css/refs/master/flags/4x3/gb.svg?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
@@ -1048,13 +1048,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="flags/4x3/fr.svg" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="flags/4x3/gb.svg" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/lipis/flag-icon-css"><span>flag-icon-css</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/lipis/flag-icon-css/tree/master/flags"><span>flags</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/lipis/flag-icon-css/tree/master/flags/4x3"><span>4x3</span></a></span><span class="separator">/</span><strong class="final-path">fr.svg</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/lipis/flag-icon-css"><span>flag-icon-css</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/lipis/flag-icon-css/tree/master/flags"><span>flags</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/lipis/flag-icon-css/tree/master/flags/4x3"><span>4x3</span></a></span><span class="separator">/</span><strong class="final-path">gb.svg</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -1064,7 +1064,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="flags/4x3/fr.svg" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="flags/4x3/gb.svg" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -1078,251 +1078,27 @@
   <div class="Box Box--condensed d-flex flex-column flex-shrink-0">
       <div class="Box-body d-flex flex-justify-between bg-blue-light flex-column flex-md-row flex-items-start flex-md-items-center">
         <span class="pr-md-4 f6">
-          <a rel="contributor" data-skip-pjax="true" href="/apps/dependabot"><img class="avatar" src="https://avatars0.githubusercontent.com/in/29110?s=40&amp;v=4" width="20" height="20" alt="@dependabot" /></a>
-          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" href="/apps/dependabot">dependabot</a>
+          <a rel="contributor" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/AndyLnd/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AndyLnd"><img class="avatar" src="https://avatars3.githubusercontent.com/u/1122618?s=40&amp;v=4" width="20" height="20" alt="@AndyLnd" /></a>
+          <a class="text-bold link-gray-dark lh-default v-align-middle" rel="contributor" data-hovercard-type="user" data-hovercard-url="/users/AndyLnd/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/AndyLnd">AndyLnd</a>
             <span class="lh-default v-align-middle">
-              <a data-pjax="true" title="Bump svgo from 1.0.5 to 1.1.0 (#488)
-
-Bumps [svgo](https://github.com/svg/svgo) from 1.0.5 to 1.1.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-
-*Sourced from [svgo's releases](https://github.com/svg/svgo/releases).*
-
-&gt; ## 1.1.0 / 16.09.2018
-&gt; * Fixed `collapseGroups` plugin removing property with a child having `inherit` value.
-&gt; * `version` attribute value is not more being rounded.
-&gt; * Fixed jsAPI `clone` method with respect to the introduced CSS classes.
-&gt; * Fixed scaling strokes with `vector-effect=&quot;non-scaling-stroke&quot;` (by [**alexjlockwood**](https://github.com/alexjlockwood)).
-&gt; * Fixed passing properties from groups in `collapseGroups` plugin if child have a filter (by [**stristr**](https://github.com/stristr)).
-&gt; * Fixed arc path commands parsing without separators after flags, effectively producing a JS error.
-&gt; * Fixed `viewBox` separators parsing.
-&gt; * Fixed `removeNonInheritableGroupAttrs` plugin to work as intended.
-&gt; * Fixed removing path segments without length in presence of `stroke-linecap`.
-&gt; * Fixed `removeUnknownsAndDefaults` plugin removing attributes from elements with `id`.
-&gt; * Fixed converting to large arcs from nearly straight lines curves.
-&gt; * Fixed `collapseGroups` plugin affecting `&lt;switch&gt;` and its subgroups.
-&gt; * Fixed `convertTransform` plugin converting to `rotate()` with wrong sign in some case.
-&gt; * Fixed `cleanupListOfValues` plugin not preserving non-numeric values.
-&gt; * Fixed `!important` being passed to attributes in `convertStyleToAttrs` plugin.
-&gt; * Added option `keepImportant` to `convertStyleToAttrs` plugin to preserve styles with `!important`.
-&gt; * `removeHiddenElems` plugin now also removes elements with `visibility=&quot;hidden&quot;` attribute (by [**mikolaj92**](https://github.com/mikolaj92)).
-&gt; * Added `forceAbsolutePath` option to `convertPathData` plugin to always use absolute coordinates (by [**cool**](https://github.com/cool)).
-&gt; * Added `keepRoleAttr` for `removeUnknownsAndDefaults` plugin to preserve `role-` attributes (by [**himedlooff**](https://github.com/himedlooff)).
-&gt; * Added `xmlns` order option in `sortAttrs` plugin (by [**hellatan**](https://github.com/hellatan)).
-&gt; * Added an option to `prefixIds` plugin to pass prefix as false or as a function that returns false (by [**vzaidman**](https://github.com/vzaidman)).
-&gt; * `prefixIds` plugin now adds prefix to every class (by [**vzaidman**](https://github.com/vzaidman)).
-&gt; * Updated and improved docs a bit (multiple authors).
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-
-*Sourced from [svgo's changelog](https://github.com/svg/svgo/blob/master/CHANGELOG.md).*
-
-&gt; ### [ [&gt;](https://github.com/svg/svgo/tree/v1.1.0) ] 1.1.0 / 16.09.2018
-&gt; * Fixed `collapseGroups` plugin removing property with a child having `inherit` value.
-&gt; * `version` attribute value is not more being rounded.
-&gt; * Fixed jsAPI `clone` method with respect to the introduced CSS classes.
-&gt; * Fixed scaling strokes with `vector-effect=&quot;non-scaling-stroke&quot;` (by [**alexjlockwood**](https://github.com/alexjlockwood)).
-&gt; * Fixed passing properties from groups in `collapseGroups` plugin if child have a filter (by [**stristr**](https://github.com/stristr)).
-&gt; * Fixed arc path commands parsing without separators after flags, effectively producing a JS error.
-&gt; * Fixed `viewBox` separators parsing.
-&gt; * Fixed `removeNonInheritableGroupAttrs` plugin to work as intended.
-&gt; * Fixed removing path segments without length in presence of `stroke-linecap`.
-&gt; * Fixed `removeUnknownsAndDefaults` plugin removing attributes from elements with `id`.
-&gt; * Fixed converting to large arcs from nearly straight lines curves.
-&gt; * Fixed `collapseGroups` plugin affecting `&lt;switch&gt;` and its subgroups.
-&gt; * Fixed `convertTransform` plugin converting to `rotate()` with wrong sign in some case.
-&gt; * Fixed `cleanupListOfValues` plugin not preserving non-numeric values.
-&gt; * Fixed `!important` being passed to attributes in `convertStyleToAttrs` plugin.
-&gt; * Added option `keepImportant` to `convertStyleToAttrs` plugin to preserve styles with `!important`.
-&gt; * `removeHiddenElems` plugin now also removes elements with `visibility=&quot;hidden&quot;` attribute (by [**mikolaj92**](https://github.com/mikolaj92)).
-&gt; * Added `forceAbsolutePath` option to `convertPathData` plugin to always use absolute coordinates (by [**cool**](https://github.com/cool)).
-&gt; * Added `keepRoleAttr` for `removeUnknownsAndDefaults` plugin to preserve `role-` attributes (by [**himedlooff**](https://github.com/himedlooff)).
-&gt; * Added `xmlns` order option in `sortAttrs` plugin (by [**hellatan**](https://github.com/hellatan)).
-&gt; * Added an option to `prefixIds` plugin to pass prefix as false or as a function that returns false (by [**vzaidman**](https://github.com/vzaidman)).
-&gt; * `prefixIds` plugin now adds prefix to every class (by [**vzaidman**](https://github.com/vzaidman)).
-&gt; * Updated and improved docs a bit (multiple authors).
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-
-- [`e7bdce6`](https://github.com/svg/svgo/commit/e7bdce66ed1f47bed291ddda2ce9871eb78bd327) v1.1.0
-- [`37d4ca8`](https://github.com/svg/svgo/commit/37d4ca88efa1c85b8761e63ad3ddaf207196a1ce) Fix cleanupListOfValues to preserve non-numeric values
-- [`eeeb67d`](https://github.com/svg/svgo/commit/eeeb67d5a8cc18168027064088312f25e8eac823) Fix convertTransform wrong rotate sign
-- [`7a07b84`](https://github.com/svg/svgo/commit/7a07b8436d14df671f4372317066904d5ade27aa) Fix collapseGroups plugin affecting switch and subgroups
-- [`5800635`](https://github.com/svg/svgo/commit/580063522638e9e301d32effa7035a577db96354) Fix converting to large arcs from nearly straight lines curves
-- [`a4fb3a4`](https://github.com/svg/svgo/commit/a4fb3a4a7e27c89a8947a14ebbb8ea683c18fd7a) Prevent removeUnknownsAndDefaults removing attributes from elements with id
-- [`831f95f`](https://github.com/svg/svgo/commit/831f95fccc93646b7157b4f8cf7328a291b08dc1) Fix empty path segments removing with stroke-linecap
-- [`a165206`](https://github.com/svg/svgo/commit/a165206632d322cf0dd03ef1fc8c4fe3cd2e658f) Update presentation attribute collection for removeNonInheritableGroupAttrs p...
-- [`36db31a`](https://github.com/svg/svgo/commit/36db31adcfb733f357dee2a882de16122c4aefe9) Fix removeNonInheritableGroupAttrs not working as intended
-- [`f3bcbcc`](https://github.com/svg/svgo/commit/f3bcbcc6a6c077af6763dd15762b34f881320af3) Fix viewBox value parsing
-- Additional commits viewable in [compare view](https://github.com/svg/svgo/compare/v1.0.5...v1.1.0)
-&lt;/details&gt;
-&lt;br /&gt;
-
-[![Dependabot compatibility score](https://api.dependabot.com/badges/compatibility_score?dependency-name=svgo&amp;package-manager=npm_and_yarn&amp;previous-version=1.0.5&amp;new-version=1.1.0)](https://dependabot.com/compatibility-score.html?dependency-name=svgo&amp;package-manager=npm_and_yarn&amp;previous-version=1.0.5&amp;new-version=1.1.0)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot ignore this [patch|minor|major] version` will close this PR and stop Dependabot creating any more for this minor/major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
-- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
-- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
-- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
-- `@dependabot badge me` will comment on this PR with code to add a &quot;Dependabot enabled&quot; badge to your readme
-
-Additionally, you can set the following in your Dependabot [dashboard](https://app.dependabot.com):
-- Update frequency (including time of day and day of week)
-- Automerge options (never/patch/minor, and dev/runtime dependencies)
-- Pull request limits (per update run and/or open at any time)
-- Out-of-range updates (receive only lockfile updates, if desired)
-- Security updates (receive only security updates, if desired)
-
-Finally, you can contact us by mentioning @dependabot.
-
-&lt;/details&gt;" class="link-gray" href="/lipis/flag-icon-css/commit/b0c4c3c83c8055d1da50c4fdd2a7f03655a4926a">Bump svgo from 1.0.5 to 1.1.0 (</a><a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="360705255" data-permission-text="Issue title is private" data-url="https://github.com/lipis/flag-icon-css/issues/488" data-hovercard-type="pull_request" data-hovercard-url="/lipis/flag-icon-css/pull/488/hovercard" href="https://github.com/lipis/flag-icon-css/pull/488">#488</a><a data-pjax="true" title="Bump svgo from 1.0.5 to 1.1.0 (#488)
-
-Bumps [svgo](https://github.com/svg/svgo) from 1.0.5 to 1.1.0.
-&lt;details&gt;
-&lt;summary&gt;Release notes&lt;/summary&gt;
-
-*Sourced from [svgo's releases](https://github.com/svg/svgo/releases).*
-
-&gt; ## 1.1.0 / 16.09.2018
-&gt; * Fixed `collapseGroups` plugin removing property with a child having `inherit` value.
-&gt; * `version` attribute value is not more being rounded.
-&gt; * Fixed jsAPI `clone` method with respect to the introduced CSS classes.
-&gt; * Fixed scaling strokes with `vector-effect=&quot;non-scaling-stroke&quot;` (by [**alexjlockwood**](https://github.com/alexjlockwood)).
-&gt; * Fixed passing properties from groups in `collapseGroups` plugin if child have a filter (by [**stristr**](https://github.com/stristr)).
-&gt; * Fixed arc path commands parsing without separators after flags, effectively producing a JS error.
-&gt; * Fixed `viewBox` separators parsing.
-&gt; * Fixed `removeNonInheritableGroupAttrs` plugin to work as intended.
-&gt; * Fixed removing path segments without length in presence of `stroke-linecap`.
-&gt; * Fixed `removeUnknownsAndDefaults` plugin removing attributes from elements with `id`.
-&gt; * Fixed converting to large arcs from nearly straight lines curves.
-&gt; * Fixed `collapseGroups` plugin affecting `&lt;switch&gt;` and its subgroups.
-&gt; * Fixed `convertTransform` plugin converting to `rotate()` with wrong sign in some case.
-&gt; * Fixed `cleanupListOfValues` plugin not preserving non-numeric values.
-&gt; * Fixed `!important` being passed to attributes in `convertStyleToAttrs` plugin.
-&gt; * Added option `keepImportant` to `convertStyleToAttrs` plugin to preserve styles with `!important`.
-&gt; * `removeHiddenElems` plugin now also removes elements with `visibility=&quot;hidden&quot;` attribute (by [**mikolaj92**](https://github.com/mikolaj92)).
-&gt; * Added `forceAbsolutePath` option to `convertPathData` plugin to always use absolute coordinates (by [**cool**](https://github.com/cool)).
-&gt; * Added `keepRoleAttr` for `removeUnknownsAndDefaults` plugin to preserve `role-` attributes (by [**himedlooff**](https://github.com/himedlooff)).
-&gt; * Added `xmlns` order option in `sortAttrs` plugin (by [**hellatan**](https://github.com/hellatan)).
-&gt; * Added an option to `prefixIds` plugin to pass prefix as false or as a function that returns false (by [**vzaidman**](https://github.com/vzaidman)).
-&gt; * `prefixIds` plugin now adds prefix to every class (by [**vzaidman**](https://github.com/vzaidman)).
-&gt; * Updated and improved docs a bit (multiple authors).
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Changelog&lt;/summary&gt;
-
-*Sourced from [svgo's changelog](https://github.com/svg/svgo/blob/master/CHANGELOG.md).*
-
-&gt; ### [ [&gt;](https://github.com/svg/svgo/tree/v1.1.0) ] 1.1.0 / 16.09.2018
-&gt; * Fixed `collapseGroups` plugin removing property with a child having `inherit` value.
-&gt; * `version` attribute value is not more being rounded.
-&gt; * Fixed jsAPI `clone` method with respect to the introduced CSS classes.
-&gt; * Fixed scaling strokes with `vector-effect=&quot;non-scaling-stroke&quot;` (by [**alexjlockwood**](https://github.com/alexjlockwood)).
-&gt; * Fixed passing properties from groups in `collapseGroups` plugin if child have a filter (by [**stristr**](https://github.com/stristr)).
-&gt; * Fixed arc path commands parsing without separators after flags, effectively producing a JS error.
-&gt; * Fixed `viewBox` separators parsing.
-&gt; * Fixed `removeNonInheritableGroupAttrs` plugin to work as intended.
-&gt; * Fixed removing path segments without length in presence of `stroke-linecap`.
-&gt; * Fixed `removeUnknownsAndDefaults` plugin removing attributes from elements with `id`.
-&gt; * Fixed converting to large arcs from nearly straight lines curves.
-&gt; * Fixed `collapseGroups` plugin affecting `&lt;switch&gt;` and its subgroups.
-&gt; * Fixed `convertTransform` plugin converting to `rotate()` with wrong sign in some case.
-&gt; * Fixed `cleanupListOfValues` plugin not preserving non-numeric values.
-&gt; * Fixed `!important` being passed to attributes in `convertStyleToAttrs` plugin.
-&gt; * Added option `keepImportant` to `convertStyleToAttrs` plugin to preserve styles with `!important`.
-&gt; * `removeHiddenElems` plugin now also removes elements with `visibility=&quot;hidden&quot;` attribute (by [**mikolaj92**](https://github.com/mikolaj92)).
-&gt; * Added `forceAbsolutePath` option to `convertPathData` plugin to always use absolute coordinates (by [**cool**](https://github.com/cool)).
-&gt; * Added `keepRoleAttr` for `removeUnknownsAndDefaults` plugin to preserve `role-` attributes (by [**himedlooff**](https://github.com/himedlooff)).
-&gt; * Added `xmlns` order option in `sortAttrs` plugin (by [**hellatan**](https://github.com/hellatan)).
-&gt; * Added an option to `prefixIds` plugin to pass prefix as false or as a function that returns false (by [**vzaidman**](https://github.com/vzaidman)).
-&gt; * `prefixIds` plugin now adds prefix to every class (by [**vzaidman**](https://github.com/vzaidman)).
-&gt; * Updated and improved docs a bit (multiple authors).
-&lt;/details&gt;
-&lt;details&gt;
-&lt;summary&gt;Commits&lt;/summary&gt;
-
-- [`e7bdce6`](https://github.com/svg/svgo/commit/e7bdce66ed1f47bed291ddda2ce9871eb78bd327) v1.1.0
-- [`37d4ca8`](https://github.com/svg/svgo/commit/37d4ca88efa1c85b8761e63ad3ddaf207196a1ce) Fix cleanupListOfValues to preserve non-numeric values
-- [`eeeb67d`](https://github.com/svg/svgo/commit/eeeb67d5a8cc18168027064088312f25e8eac823) Fix convertTransform wrong rotate sign
-- [`7a07b84`](https://github.com/svg/svgo/commit/7a07b8436d14df671f4372317066904d5ade27aa) Fix collapseGroups plugin affecting switch and subgroups
-- [`5800635`](https://github.com/svg/svgo/commit/580063522638e9e301d32effa7035a577db96354) Fix converting to large arcs from nearly straight lines curves
-- [`a4fb3a4`](https://github.com/svg/svgo/commit/a4fb3a4a7e27c89a8947a14ebbb8ea683c18fd7a) Prevent removeUnknownsAndDefaults removing attributes from elements with id
-- [`831f95f`](https://github.com/svg/svgo/commit/831f95fccc93646b7157b4f8cf7328a291b08dc1) Fix empty path segments removing with stroke-linecap
-- [`a165206`](https://github.com/svg/svgo/commit/a165206632d322cf0dd03ef1fc8c4fe3cd2e658f) Update presentation attribute collection for removeNonInheritableGroupAttrs p...
-- [`36db31a`](https://github.com/svg/svgo/commit/36db31adcfb733f357dee2a882de16122c4aefe9) Fix removeNonInheritableGroupAttrs not working as intended
-- [`f3bcbcc`](https://github.com/svg/svgo/commit/f3bcbcc6a6c077af6763dd15762b34f881320af3) Fix viewBox value parsing
-- Additional commits viewable in [compare view](https://github.com/svg/svgo/compare/v1.0.5...v1.1.0)
-&lt;/details&gt;
-&lt;br /&gt;
-
-[![Dependabot compatibility score](https://api.dependabot.com/badges/compatibility_score?dependency-name=svgo&amp;package-manager=npm_and_yarn&amp;previous-version=1.0.5&amp;new-version=1.1.0)](https://dependabot.com/compatibility-score.html?dependency-name=svgo&amp;package-manager=npm_and_yarn&amp;previous-version=1.0.5&amp;new-version=1.1.0)
-
-Dependabot will resolve any conflicts with this PR as long as you don't alter it yourself. You can also trigger a rebase manually by commenting `@dependabot rebase`.
-
----
-
-&lt;details&gt;
-&lt;summary&gt;Dependabot commands and options&lt;/summary&gt;
-&lt;br /&gt;
-
-You can trigger Dependabot actions by commenting on this PR:
-- `@dependabot rebase` will rebase this PR
-- `@dependabot merge` will merge this PR after your CI passes on it
-- `@dependabot cancel merge` will cancel a previously requested merge
-- `@dependabot reopen` will reopen this PR if it is closed
-- `@dependabot ignore this [patch|minor|major] version` will close this PR and stop Dependabot creating any more for this minor/major version (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot ignore this dependency` will close this PR and stop Dependabot creating any more for this dependency (unless you reopen the PR or upgrade to it yourself)
-- `@dependabot use these labels` will set the current labels as the default for future PRs for this repo and language
-- `@dependabot use these reviewers` will set the current reviewers as the default for future PRs for this repo and language
-- `@dependabot use these assignees` will set the current assignees as the default for future PRs for this repo and language
-- `@dependabot use this milestone` will set the current milestone as the default for future PRs for this repo and language
-- `@dependabot badge me` will comment on this PR with code to add a &quot;Dependabot enabled&quot; badge to your readme
-
-Additionally, you can set the following in your Dependabot [dashboard](https://app.dependabot.com):
-- Update frequency (including time of day and day of week)
-- Automerge options (never/patch/minor, and dev/runtime dependencies)
-- Pull request limits (per update run and/or open at any time)
-- Out-of-range updates (receive only lockfile updates, if desired)
-- Security updates (receive only security updates, if desired)
-
-Finally, you can contact us by mentioning @dependabot.
-
-&lt;/details&gt;" class="link-gray" href="/lipis/flag-icon-css/commit/b0c4c3c83c8055d1da50c4fdd2a7f03655a4926a">)</a>
+              <a data-pjax="true" title="fix: Properly align GB flag (#602)" class="link-gray" href="/lipis/flag-icon-css/commit/14f1f5638001fe1819807f2885b5559174fc6db7">fix: Properly align GB flag (</a><a class="issue-link js-issue-link" data-error-text="Failed to load issue title" data-id="495612215" data-permission-text="Issue title is private" data-url="https://github.com/lipis/flag-icon-css/issues/602" data-hovercard-type="pull_request" data-hovercard-url="/lipis/flag-icon-css/pull/602/hovercard" href="https://github.com/lipis/flag-icon-css/pull/602">#602</a><a data-pjax="true" title="fix: Properly align GB flag (#602)" class="link-gray" href="/lipis/flag-icon-css/commit/14f1f5638001fe1819807f2885b5559174fc6db7">)</a>
             </span>
         </span>
         <span class="d-inline-block flex-shrink-0 v-align-bottom f6 mt-2 mt-md-0">
-          <a class="pr-2 text-mono link-gray" href="/lipis/flag-icon-css/commit/b0c4c3c83c8055d1da50c4fdd2a7f03655a4926a" data-pjax>b0c4c3c</a>
-          <relative-time datetime="2018-09-17T09:23:51Z" class="no-wrap">Sep 17, 2018</relative-time>
+          <a class="pr-2 text-mono link-gray" href="/lipis/flag-icon-css/commit/14f1f5638001fe1819807f2885b5559174fc6db7" data-pjax>14f1f56</a>
+          <relative-time datetime="2019-09-19T08:07:19Z" class="no-wrap">Sep 19, 2019</relative-time>
         </span>
       </div>
 
     <div class="Box-body d-flex flex-items-center flex-auto f6 border-bottom-0 flex-wrap" >
       <details class="details-reset details-overlay details-overlay-dark lh-default text-gray-dark float-left mr-2" id="blob_contributors_box">
         <summary class="btn-link">
-          <span><strong>4</strong> contributors</span>
+          <span><strong>5</strong> contributors</span>
         </summary>
         <details-dialog
           class="Box Box--overlay d-flex flex-column anim-fade-in fast"
           aria-label="Users who have contributed to this file"
-          src="/lipis/flag-icon-css/contributors-list/master/flags/4x3/fr.svg" preload>
+          src="/lipis/flag-icon-css/contributors-list/master/flags/4x3/gb.svg" preload>
           <div class="Box-header">
             <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
               <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -1335,14 +1111,16 @@ Finally, you can contact us by mentioning @dependabot.
         </details-dialog>
       </details>
         <span class="">
-    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/lipis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lipis/flag-icon-css/commits/master/flags/4x3/fr.svg?author=lipis">
+    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/lipis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lipis/flag-icon-css/commits/master/flags/4x3/gb.svg?author=lipis">
       <img class="avatar mr-1" src="https://avatars1.githubusercontent.com/u/125676?s=40&amp;v=4" width="20" height="20" alt="@lipis" /> 
-</a>    <a class="avatar-link" href="/lipis/flag-icon-css/commits/master/flags/4x3/fr.svg?author=dependabot">
+</a>    <a class="avatar-link" href="/lipis/flag-icon-css/commits/master/flags/4x3/gb.svg?author=dependabot">
       <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/in/29110?s=40&amp;v=4" width="20" height="20" alt="@dependabot" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/g105b/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lipis/flag-icon-css/commits/master/flags/4x3/fr.svg?author=g105b">
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/g105b/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lipis/flag-icon-css/commits/master/flags/4x3/gb.svg?author=g105b">
       <img class="avatar mr-1" src="https://avatars0.githubusercontent.com/u/358014?s=40&amp;v=4" width="20" height="20" alt="@g105b" /> 
-</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/edorivai/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lipis/flag-icon-css/commits/master/flags/4x3/fr.svg?author=edorivai">
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/edorivai/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lipis/flag-icon-css/commits/master/flags/4x3/gb.svg?author=edorivai">
       <img class="avatar mr-1" src="https://avatars2.githubusercontent.com/u/765358?s=40&amp;v=4" width="20" height="20" alt="@edorivai" /> 
+</a>    <a class="avatar-link" data-hovercard-type="user" data-hovercard-url="/users/AndyLnd/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/lipis/flag-icon-css/commits/master/flags/4x3/gb.svg?author=AndyLnd">
+      <img class="avatar mr-1" src="https://avatars3.githubusercontent.com/u/1122618?s=40&amp;v=4" width="20" height="20" alt="@AndyLnd" /> 
 </a>
 </span>
 
@@ -1360,43 +1138,43 @@ Finally, you can contact us by mentioning @dependabot.
 
       7 lines (7 sloc)
       <span class="file-info-divider"></span>
-    292 Bytes
+    538 Bytes
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
       <div class="BtnGroup">
         <a class="btn btn-sm BtnGroup-item tooltipped tooltipped tooltipped-n source "
-          href="/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg?short_path=712c8a5" aria-label="Display the source blob">
+          href="/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg?short_path=132dbed" aria-label="Display the source blob">
           <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
         </a>
         <a class="btn btn-sm BtnGroup-item tooltipped tooltipped-n rendered selected"
-          href="/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg" aria-label="Display the rendered blob">
+          href="/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg" aria-label="Display the rendered blob">
           <svg class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"/></svg>
         </a>
       </div>
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/lipis/flag-icon-css/raw/master/flags/4x3/fr.svg">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/lipis/flag-icon-css/blame/master/flags/4x3/fr.svg">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/lipis/flag-icon-css/commits/master/flags/4x3/fr.svg">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/lipis/flag-icon-css/raw/master/flags/4x3/gb.svg">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/lipis/flag-icon-css/blame/master/flags/4x3/gb.svg">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/lipis/flag-icon-css/commits/master/flags/4x3/gb.svg">History</a>
     </div>
 
 
     <div>
             <a class="btn-octicon tooltipped tooltipped-nw"
-               href="github-mac://openRepo/https://github.com/lipis/flag-icon-css?branch=master&amp;filepath=flags%2F4x3%2Ffr.svg"
+               href="github-mac://openRepo/https://github.com/lipis/flag-icon-css?branch=master&amp;filepath=flags%2F4x3%2Fgb.svg"
                aria-label="Open this file in GitHub Desktop"
                data-ga-click="Repository, open with desktop, type:mac">
                 <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
             </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lipis/flag-icon-css/edit/master/flags/4x3/fr.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PYVif2J1XKBBRvayuPVWW9dGacGjQhQaMUC5NPE0PCh+DWJGTnLvYR9zaVKOFEB5WI7B0bsUXtDaYB+5139mxA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/lipis/flag-icon-css/edit/master/flags/4x3/gb.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="kVaFHcDJQmXRf95XZNMfx7OyLHze+qml6WJSGvzL8LJH6L3xOFk5leukKH0ANwStn3SZf1G5dd8XhBuM9aEO+A==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lipis/flag-icon-css/delete/master/flags/4x3/fr.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="T3xKUZLem4eTwa68oEZrB+nNteZRPCflWtJFBWDGTq7Vnb9cs4ywmosrQooNAjh4tIHrNkKmoYhMOPXrA2Gssg==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/lipis/flag-icon-css/delete/master/flags/4x3/gb.svg" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="oImadeS0P5G3o/GLkKu5k7rZf1C1SoZOARioJwJgBMi4SRhKx2OyYy4UKtk7179JwiY+x57UbE88unrcokCjSQ==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1414,14 +1192,14 @@ Finally, you can contact us by mentioning @dependabot.
       
   <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target  "
-      data-identity="f0445470-8db6-4aec-bc63-0ff49141b7bd"
+      data-identity="e053a933-f50b-4fb3-bf82-96dd53bc1dbe"
       data-host="https://render.githubusercontent.com"
       data-type="svg">
       <img class="octospinner mx-auto" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
-      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/fr.svg">Reload?</a></div>
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/lipis/flag-icon-css/blob/master/flags/4x3/gb.svg">Reload?</a></div>
       <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
-      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=dc4a316075bebf7f738f8ac0aad10d5fd8ac8eb0&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c697069732f666c61672d69636f6e2d6373732f646334613331363037356265626637663733386638616330616164313064356664386163386562302f666c6167732f3478332f66722e737667&amp;nwo=lipis%2Fflag-icon-css&amp;path=flags%2F4x3%2Ffr.svg&amp;repository_id=13099301&amp;repository_type=Repository#f0445470-8db6-4aec-bc63-0ff49141b7bd" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
+      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=dc4a316075bebf7f738f8ac0aad10d5fd8ac8eb0&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c697069732f666c61672d69636f6e2d6373732f646334613331363037356265626637663733386638616330616164313064356664386163386562302f666c6167732f3478332f67622e737667&amp;nwo=lipis%2Fflag-icon-css&amp;path=flags%2F4x3%2Fgb.svg&amp;repository_id=13099301&amp;repository_type=Repository#e053a933-f50b-4fb3-bf82-96dd53bc1dbe" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
           Viewer requires iframe.
       </iframe>
     </div>
