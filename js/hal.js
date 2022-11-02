@@ -132,7 +132,8 @@ function parseCitation(doc, citationElement, linksElement)
     const text = matches[3];
     citation = citation.replace(matches[0],'');
     var icons = {
-      'dx.doi.org': 'doi.svg',
+      'dx.doi.org': 'img/icons/doi.svg',
+      // 'dx.doi.org': 'doi.svg',
       'www.mdpi.com': 'mdpi.jpg'
     }
     const img = "img/icons/"+(icons[host] || "link.svg")
