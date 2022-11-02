@@ -1,4 +1,1 @@
-# firstname-lastname-template
-  
-
-Template for LASTIG researchers personal webpage.
+[raphaelsulzer.de](raphaelsulzer.de)
