@@ -150,7 +150,7 @@ function parseCitation(doc, citationElement, linksElement)
     imgElement = document.createElement('img');
     imgElement.setAttribute("title",text);
     imgElement.setAttribute("src", img);
-    imgElement.setAttribute("height","20");
+    imgElement.setAttribute("height","30");
     imgElement.setAttribute("alt",text);
     aElement.appendChild(imgElement);
     linksElement.appendChild(aElement);
@@ -178,6 +178,7 @@ function createBibtex(label_bibtex, parent)
   inputElement.setAttribute("type","image");
   inputElement.setAttribute("class","imgLink");
   inputElement.setAttribute("src","img/icons/bibtex.jpg");
+  inputElement.setAttribute("height","30");   
   inputElement.setAttribute("alt","Copy BibTeX to clipboard");
   inputElement.setAttribute("title","Copy BibTeX to clipboard");
   inputElement.onclick = function() {clickBibtex(label_bibtex);}
@@ -193,7 +194,7 @@ var createPub = function(doc, parent){
   const listElement = document.createElement('li');
   listElement.setAttribute("class", "bib");
   listElement.setAttribute("id", doc.halId_s);
-  listElement.style.padding = '20px 0px'
+  listElement.style.padding = '20px 0px' // the padding between the list elements
   const linksElement = document.createElement('span');
   // listElement.innerHTML = '<b>'+classement(doc)+'</b>';
 
@@ -201,7 +202,9 @@ var createPub = function(doc, parent){
   
   title.setAttribute("href",'https://hal.archives-ouvertes.fr/'+doc.halId_s);
   title.setAttribute("class","title");
+  title.style.padding = '0px 0px 0px 0px'
   const title_en = document.createElement('span');
+  title_en.style.padding = '0px 0px 0px 0px'
   title_en.innerHTML = doc.en_title_s;
   title.appendChild(title_en);
   // if (doc.en_title_s && doc.fr_title_s) {
@@ -254,7 +257,7 @@ var createPub = function(doc, parent){
     imgPdfElement = document.createElement('img');
     imgPdfElement.setAttribute("title","pdf");
     imgPdfElement.setAttribute("src","img/icons/pdf_icon.gif");
-    imgPdfElement.setAttribute("height","20");
+    imgPdfElement.setAttribute("height","30");
     imgPdfElement.setAttribute("alt","pdf");
     pdfElement.appendChild(imgPdfElement);
     linksElement.appendChild(pdfElement);
