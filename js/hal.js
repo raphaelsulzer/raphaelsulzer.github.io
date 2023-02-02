@@ -42,8 +42,13 @@ var getPublications = function(halId, parent, params){
     // console.log(docs);
     if(docs.length == 0) {
       parent.hidden = true;
-    } else {
-      const ol = document.createElement('ol');
+    } else {      
+      // changed this from ordered list 'ol' to unordered list 'ul'
+      // const ol = document.createElement('ol');
+      const ol = document.createElement('ul');
+      ol.style.listStyleType = 'none'
+      ol.style.listStylePosition = 'outside'
+      ol.style.padding = '0px 0px 0px 0px'
       ol.setAttribute("class","sub");
       docs.forEach(doc => createPub(doc, ol));
       parent.appendChild(ol);
@@ -53,6 +58,8 @@ var getPublications = function(halId, parent, params){
 }
 
 const publication_options = {
+
+  allMyPubs:"",
   pubASCL:"&fq=popularLevel_s:0&fq=docType_s:\"ART\"&fq=peerReviewing_s:0",
   pubACL: "&fq=popularLevel_s:0&fq=docType_s:\"ART\"&fq=peerReviewing_s:1&fq=audience_s:2",
   pubACLN:"&fq=popularLevel_s:0&fq=docType_s:\"ART\"&fq=peerReviewing_s:1&fq=audience_s:(NOT 2)",
@@ -180,12 +187,38 @@ function createBibtex(label_bibtex, parent)
 
 var createPub = function(doc, parent){
   // console.log(doc);
+
+
   if (!parent) return;
   const listElement = document.createElement('li');
   listElement.setAttribute("class", "bib");
   listElement.setAttribute("id", doc.halId_s);
+  listElement.style.padding = '20px 0px'
   const linksElement = document.createElement('span');
   // listElement.innerHTML = '<b>'+classement(doc)+'</b>';
+
+  const title = document.createElement('a');
+  
+  title.setAttribute("href",'https://hal.archives-ouvertes.fr/'+doc.halId_s);
+  title.setAttribute("class","title");
+  const title_en = document.createElement('span');
+  title_en.innerHTML = doc.en_title_s;
+  title.appendChild(title_en);
+  // if (doc.en_title_s && doc.fr_title_s) {
+  //   const title_en = document.createElement('span');
+  //   const title_fr = document.createElement('span');
+  //   title_en.setAttribute("class","lang-en");
+  //   title_fr.setAttribute("class","lang-fr");
+  //   title_en.innerHTML = doc.en_title_s;
+  //   title_fr.innerHTML = doc.fr_title_s;
+  //   title.appendChild(title_en);
+  //   title.appendChild(title_fr);
+  // } else {
+  //   title.innerHTML = (doc.en_title_s || doc.fr_title_s || doc.title_s);
+  // }
+  listElement.appendChild(title);
+  const lb1 = document.createElement("br");
+  listElement.appendChild(lb1);
 
   const authors = document.createElement('span');
   for(var i = 0; i < doc.authIdHalFullName_fs.length; ++i)
@@ -201,24 +234,9 @@ var createPub = function(doc, parent){
     authors.appendChild(author);
   }
   listElement.appendChild(authors);
+  const lb2 = document.createElement("br");
+  listElement.appendChild(lb2);
 
-  const title = document.createElement('a');
-  
-  title.setAttribute("href",'https://hal.archives-ouvertes.fr/'+doc.halId_s);
-  title.setAttribute("class","title");
-  if (doc.en_title_s && doc.fr_title_s) {
-    const title_en = document.createElement('span');
-    const title_fr = document.createElement('span');
-    title_en.setAttribute("class","lang-en");
-    title_fr.setAttribute("class","lang-fr");
-    title_en.innerHTML = doc.en_title_s;
-    title_fr.innerHTML = doc.fr_title_s;
-    title.appendChild(title_en);
-    title.appendChild(title_fr);
-  } else {
-    title.innerHTML = (doc.en_title_s || doc.fr_title_s || doc.title_s);
-  }
-  listElement.appendChild(title);
 
   const ref = document.createElement('span');
   parseCitation(doc, ref, linksElement);
