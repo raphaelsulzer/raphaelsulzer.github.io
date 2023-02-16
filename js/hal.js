@@ -140,9 +140,10 @@ function parseCitation(doc, citationElement, linksElement)
     citation = citation.replace(matches[0],'');
     var icons = {
       'dx.doi.org': 'doi.svg',
-      'www.mdpi.com': 'mdpi.jpg'
+      'www.mdpi.com': 'mdpi.jpg',
+      'www.theses.fr': 'thesesfr.svg'
     }
-    const img = "img/icons/"+(icons[host] || "link.svg")
+    const img = "img/icons/"+(icons[host])
 
     const aElement = document.createElement('a');
     aElement.setAttribute("href",url);
