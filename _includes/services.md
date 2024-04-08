@@ -11,5 +11,5 @@
 <ul style="margin:0 0 5px;">
   <li>IEEE Transactions on Graphics (TOG)</li>
   <li>IEEE Transactions on Visualization and Computer Graphics (TVCG)</li>
-  <li>ISPRS Journal of Photogrammetry and Remote Sensing (JPRS)</li>
+  <li>ISPRS Journal of Photogrammetry and Remote Sensing (P&RS)</li>
 </ul>
