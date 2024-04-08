@@ -1,0 +1,13 @@
+main:
+
+  - title: "SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models"
+    authors: Jean-Philippe Bauchet*, <strong>Raphael Sulzer</strong>*, Florent Lafarge, Yuliya Tarabalka
+    conference_short: preprint
+    conference: preprint
+    image: ./assets/img/publications/19634_opticity.jpg
+
+  - title: "Concise Plane Arrangements for Low-Poly Surface and Volume Modelling"
+    authors: <strong>Raphael Sulzer</strong>, Florent Lafarge
+    conference_short: preprint
+    conference: preprint
+    image: ./assets/img/publications/compod.jpg
