@@ -83,6 +83,8 @@ h1, h2, h3 { line-height: 1.1; }
 
 a { color: #39c; text-decoration: none; }
 
+p { text-align: justify; }
+
 a:hover { color: #069; }
 
 @media (prefers-color-scheme: dark) { a { color: #3eb7f0; } }
