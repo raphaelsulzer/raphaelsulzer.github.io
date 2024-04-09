@@ -1,6 +1,6 @@
 .pub-row { display: flex; align-items: center; }
 
-.social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #043361 !important; border-radius: 100%; text-align: center; font-size: 1.15rem; line-height: 2.5rem; margin-right: 1rem; }
+.social-icons a { display: inline-block; height: 2.4rem; width: 2.4rem; background-color: transparent; color: #043361 !important; border-radius: 100%; text-align: center; font-size: 1.45rem; line-height: 2.5rem; margin-right: 1rem; }
 
 .social-icons a:last-child { margin-right: 0; }
 
@@ -22,7 +22,9 @@
 
 .github span { background-color: #000; }
 
-email { font-size: 14px; font-family: "Ubuntu Mono"; }
+email { font-size: 16px; font-family: "Ubuntu Mono"; }
+
+position { font-size: 120%; }
 
 .icon-button i { background: none; color: white; height: 3.6rem; left: 0; line-height: 3.6rem; position: absolute; top: 0; -webkit-transition: all 0.3s; -moz-transition: all 0.3s; -o-transition: all 0.3s; transition: all 0.3s; width: 3.6rem; z-index: 10; }
 
@@ -60,15 +62,13 @@ papertitle { font-weight: 600; font-size: 100%; }
 
 h3, h4, h5, h6 { font-weight: 600; color: #043361; margin: 0 0 20px; }
 
-h1 { font-weight: 500; color: #043361; margin: 0 0 20px; }
+h1 { font-weight: 500; color: #043361; margin: 0 0 20px; font-size: 32px; }
 
 h2 { color: #043361; font-weight: 500; margin: 2px 0px 15px; font-size: 157%; }
 
 p, ul, ol, table, pre, dl { margin: 0 0 20px; }
 
 h1, h2, h3 { line-height: 1.1; }
-
-h1 { font-size: 28px; }
 
 a { color: #39c; text-decoration: none; }
 
@@ -78,7 +78,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { width: 960px; margin: 0 auto; }
+.wrapper { /*width:960px;*/ width: 1260px; margin: 0 auto; }
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -96,7 +96,7 @@ th { color: #444; }
 
 img { max-width: 100%; }
 
-header { width: 232px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 4.0em; text-align: center; }
+header { /*width:232px;*/ width: 432px; float: left; position: fixed; -webkit-font-smoothing: subpixel-antialiased; padding-top: 4.0em; text-align: center; }
 
 header ul { list-style: none; height: 40px; padding: 0; background: #f4f4f4; border-radius: 5px; border: 1px solid #e0e0e0; width: 270px; }
 
@@ -118,7 +118,7 @@ header ul li + li + li { border-right: none; width: 89px; }
 
 header ul a strong { font-size: 14px; display: block; color: #222; }
 
-section { width: 650px; float: right; padding-top: 4.0em; padding-bottom: 50px; }
+section { /*width:650px;*/ width: 850px; float: right; padding-top: 4.0em; padding-bottom: 50px; }
 
 small { font-size: 11px; }
 

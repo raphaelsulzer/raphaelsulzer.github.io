@@ -10,7 +10,7 @@
   color:#043361!important;
   border-radius:100%;
   text-align:center;
-  font-size:1.15rem;
+  font-size:1.45rem;
   line-height:2.5rem;
   margin-right:1rem}
 
@@ -82,8 +82,12 @@
   background-color:#000}
 
 email {
-    font-size: 14px;
+    font-size: 16px;
     font-family: "Ubuntu Mono";
+}
+
+position {
+  font-size:120%;
 }
 
 .icon-button i{
@@ -191,6 +195,7 @@ h1 {
   font-weight: 500;
   color:#043361;
   margin:0 0 20px;
+  font-size:32px;
 }
 
 h2 {
@@ -206,10 +211,6 @@ p, ul, ol, table, pre, dl {
 
 h1, h2, h3 {
   line-height:1.1;
-}
-
-h1 {
-  font-size:28px;
 }
 
 a {
@@ -233,7 +234,8 @@ a:hover small {
 }
 
 .wrapper {
-  width:960px;
+  /*width:960px;*/
+  width:1260px;
   margin:0 auto;
 }
 
@@ -283,7 +285,8 @@ img {
 }
 
 header {
-  width:232px;
+  /*width:232px;*/
+  width:432px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -353,7 +356,8 @@ header ul a strong {
 }
 
 section {
-  width:650px;
+  /*width:650px;*/
+  width:850px;
   float:right;
   padding-top:4.0em;
   padding-bottom:50px;
