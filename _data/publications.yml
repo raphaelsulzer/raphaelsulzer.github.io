@@ -5,6 +5,7 @@ main:
     conference_short: preprint
     conference: preprint
     image: ./assets/img/publications/clipped/19634_opticity.jpg
+    pdf: ./assets/files/publications/Kinetic_Building_Reconstruction_CVPR.pdf
 
   - title: "Concise Plane Arrangements for Low-Poly Surface and Volume Modelling"
     authors: <strong>Raphael Sulzer</strong>, Florent Lafarge
