@@ -5,14 +5,15 @@ main:
     conference_short: USM3D
     conference: CVPR Workshop on Urban Scene Modeling
     image: ./assets/img/publications/clipped/19634_opticity.jpg
-    pdf: ./assets/files/publications/Kinetic_Building_Reconstruction_CVPR.pdf
+    pdf: ./assets/files/publications/simplicity.pdf
 
   - title: "Concise Plane Arrangements for Low-Poly Surface and Volume Modelling"
     authors: <strong>Raphael Sulzer</strong>, Florent Lafarge
     conference_short: preprint
     conference: preprint
     image: ./assets/img/publications/clipped/compod.jpg
-    pdf: https://arxiv.org/pdf/2404.06154.pdf
+    pdf: ./assets/files/publications/COMPOD_main.pdf
+    suppmat: ./assets/files/publications/COMPOD_supp.pdf
     code: https://github.com/raphaelsulzer/compod
 
   - title: "A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds"
