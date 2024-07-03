@@ -1,20 +1,20 @@
 main:
 
-  - title: "SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models"
-    authors: Jean-Philippe Bauchet*, <strong>Raphael Sulzer</strong>*, Florent Lafarge, Yuliya Tarabalka
-    conference_short: USM3D
-    conference: CVPR Workshop on Urban Scene Modeling
-    image: ./assets/img/publications/clipped/19634_opticity.jpg
-    pdf: ./assets/files/publications/simplicity.pdf
-
   - title: "Concise Plane Arrangements for Low-Poly Surface and Volume Modelling"
     authors: <strong>Raphael Sulzer</strong>, Florent Lafarge
-    conference_short: preprint
-    conference: preprint
+    conference_short: ECCV
+    conference: European Conference on Computer Vision
     image: ./assets/img/publications/clipped/compod.jpg
     pdf: ./assets/files/publications/COMPOD_main.pdf
     suppmat: ./assets/files/publications/COMPOD_supp.pdf
     code: https://github.com/raphaelsulzer/compod
+    
+  - title: "SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models"
+    authors: Jean-Philippe Bauchet*, <strong>Raphael Sulzer</strong>*, Florent Lafarge, Yuliya Tarabalka
+    conference_short: CVPR
+    conference: CVPR Workshop on Urban Scene Modeling
+    image: ./assets/img/publications/clipped/19634_opticity.jpg
+    pdf: ./assets/files/publications/simplicity.pdf
 
   - title: "A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds"
     authors: <strong>Raphael Sulzer</strong>, Renaud Marlet, Bruno Vallet, Loic Landrieu

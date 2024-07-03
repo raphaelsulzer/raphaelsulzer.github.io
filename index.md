@@ -8,6 +8,7 @@ I am postdoctoral researcher in the <a href="https://team.inria.fr/titane/team/"
 
 ## News
 
+- **[Jul. 2024]** Our paper about Low-Poly Surface and Volume Modeling is accepted at ECCV 2024
 - **[Apr. 2024]** Our SimpliCity paper is accepted at CVPR Workshop on Urban Scene Modeling
 - **[Nov. 2023]** I join LuxCarta Technology as a research engineer
 
