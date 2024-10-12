@@ -7,6 +7,7 @@ main:
     image: ./assets/img/publications/clipped/compod.jpg
     pdf: ./assets/files/publications/COMPOD_main.pdf
     suppmat: ./assets/files/publications/COMPOD_supp.pdf
+    poster: ./assets/files/publications/poster_ECCV_180924.pdf
     code: https://github.com/raphaelsulzer/compod
     
   - title: "SimpliCity: Reconstructing Buildings with Simple Regularized 3D Models"
@@ -45,6 +46,7 @@ main:
     conference: International Conference on Pattern Recognition
     image: ./assets/img/publications/clipped/dsrv.jpg
     pdf: https://arxiv.org/pdf/2202.01810.pdf
+    poster: ./assets/files/publications/dsrv_poser.pdf
     code: https://github.com/raphaelsulzer/dsrv-data
 
   - title: "Scalable Surface Reconstruction with Delaunay-Graph Neural Networks"
