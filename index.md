@@ -8,10 +8,10 @@ I am postdoctoral researcher in the <a href="https://team.inria.fr/titane/team/"
 
 ## News
 
+- **[Nov. 2024]** Our survey and benchmark for surface reconstruction is accepted at PAMI
 - **[Jul. 2024]** Our paper about Low-Poly Surface and Volume Modeling is accepted at ECCV 2024
 - **[Apr. 2024]** Our SimpliCity paper is accepted at CVPR Workshop on Urban Scene Modeling
-- **[Nov. 2023]** I join LuxCarta Technology as a research engineer
-
+<!-- - **[Nov. 2023]** I join LuxCarta Technology as a research engineer -->
 <!-- - **[Nov. 2022]** I join INRIA as a postdoctoral researcher
 - **[Oct. 2022]** Our benchmark paper for surface mesh reconstruction is accepted at PE&RS journal -->
 <!-- - **[Oct. 2022]** I succesfully defended my PhD at IGN
