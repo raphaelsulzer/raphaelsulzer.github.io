@@ -4,7 +4,7 @@
 
 <ul style="margin:0 0 5px;">
   <li>ACM SIGGRAPH</li>
-  <li>CVPR</li>
+  <li>IEEE Conference on Computer Vision and Pattern Recognition (CVPR)</li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewing</h4>
