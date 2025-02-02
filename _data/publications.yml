@@ -19,7 +19,7 @@ main:
 
   - title: "A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds"
     authors: <strong>Raphael Sulzer</strong>, Renaud Marlet, Bruno Vallet, Loic Landrieu
-    conference_short: PAMI
+    conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
     image: ./assets/img/publications/clipped/benchmark.jpg
     pdf: https://arxiv.org/pdf/2301.13656.pdf
