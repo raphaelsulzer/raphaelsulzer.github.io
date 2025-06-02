@@ -1,4 +1,12 @@
 main:
+  - title: "The P<sup>3</sup> dataset: Pixels, Points and Polygons for Multimodal Building Vectorization"
+    authors: <strong>Raphael Sulzer</strong>, Liuyun Duan, Nicolas Girard, Florent Lafarge
+    conference_short: preprint
+    conference: preprint
+    image: ./assets/img/publications/ppp.jpg
+    pdf: https://arxiv.org/pdf/2505.15379
+    code: https://github.com/raphaelsulzer/PixelsPointsPolygons
+    data: https://huggingface.co/datasets/rsi/PixelsPointsPolygons
 
   - title: "Concise Plane Arrangements for Low-Poly Surface and Volume Modelling"
     authors: <strong>Raphael Sulzer</strong>, Florent Lafarge
