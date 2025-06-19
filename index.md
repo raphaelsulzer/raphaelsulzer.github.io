@@ -19,10 +19,11 @@ I am postdoctoral researcher in the <a href="https://team.inria.fr/titane/team/"
 
 ## Research Interests
 
-- **Geometry Processing:** surface and volume modeling
-- **Computer Vision:** point cloud generation and analysis
-- **Machine Learning:** neural surface and radiance fields
-- **Digital Twin:** BIM, CityGML, 3D city models
+- **Geometry Processing:** Arrangements, Triangulations, Surface and Volume Modeling  
+- **Computer Vision:** 3D Scene Understanding and Reconstruction 
+- **Machine Learning:** Neural Implicit Functions, Geometry-Aware Learning  
+- **Remote Sensing:** Point Cloud Processing, Aerial and Satellite Image Analysis
+- **GIS:** 2D and 3D Urban Modeling
 
 
 {% include_relative _includes/publications.md %}

@@ -1,4 +1,12 @@
 main:
+  - title: "The P<sup>3</sup> Dataset: Pixels, Points and Polygons for Multimodal Building Vectorization"
+    authors: <strong>Raphael Sulzer</strong>, Liuyun Duan, Nicolas Girard, Florent Lafarge
+    conference_short: preprint
+    conference: preprint
+    image: ./assets/img/publications/ppp.jpg
+    pdf: https://arxiv.org/pdf/2505.15379
+    code: https://github.com/raphaelsulzer/PixelsPointsPolygons
+    data: https://huggingface.co/datasets/rsi/PixelsPointsPolygons
 
   - title: "Concise Plane Arrangements for Low-Poly Surface and Volume Modelling"
     authors: <strong>Raphael Sulzer</strong>, Florent Lafarge
@@ -19,7 +27,7 @@ main:
 
   - title: "A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds"
     authors: <strong>Raphael Sulzer</strong>, Renaud Marlet, Bruno Vallet, Loic Landrieu
-    conference_short: PAMI
+    conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
     image: ./assets/img/publications/clipped/benchmark.jpg
     pdf: https://arxiv.org/pdf/2301.13656.pdf
