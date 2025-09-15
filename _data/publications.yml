@@ -24,6 +24,7 @@ main:
     conference: CVPR Workshop on Urban Scene Modeling
     image: ./assets/img/publications/clipped/19634_opticity.jpg
     pdf: ./assets/files/publications/simplicity.pdf
+    video: https://www.youtube.com/watch?v=3tj1Co0fdEA&ab_channel=LuxCarta
 
   - title: "A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds"
     authors: <strong>Raphael Sulzer</strong>, Renaud Marlet, Bruno Vallet, Loic Landrieu
