@@ -95,6 +95,10 @@ bundle install
 bundle add webrick
 bundle exec jekyll server
 ```
+
+UPDATE 13/12/2025: bundle jekyll server fails with SSL error, fix with
+https://github.com/ruby/openssl/issues/949#issuecomment-3367944960
+
 View the live page using `localhost`:
 <http://localhost:4000>. You can get the HTML files in `_site` folder.
 
