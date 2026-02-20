@@ -8,7 +8,7 @@ I am postdoctoral researcher in the <a href="https://team.inria.fr/titane/team/"
 
 ## News
 
-- **[Jan. 2026]** Our Dataset and Benchmark for Multimodal Building Footprint Vectorization is accepted at ISPRS 2026 in Toronto
+- **[Jan. 2026]** Our paper about Multimodal Building Footprint Vectorization is accepted at ISPRS 2026 in Toronto
 - **[Dec. 2025]** LuxCarta is participating in the generation of the French Digital Twin
 - **[Nov. 2024]** Our Survey and Benchmark for Surface Reconstruction is accepted at TPAMI
 - **[Jul. 2024]** Our Low-Poly Surface and Volume Modeling paper is accepted at ECCV 2024 in Milan
