@@ -1,8 +1,8 @@
 main:
   - title: "The P<sup>3</sup> Dataset: Pixels, Points and Polygons for Multimodal Building Vectorization"
     authors: <strong>Raphael Sulzer</strong>, Liuyun Duan, Nicolas Girard, Florent Lafarge
-    conference_short: preprint
-    conference: preprint
+    conference_short: ISPRS
+    conference: ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences
     image: ./assets/img/publications/ppp.jpg
     pdf: https://arxiv.org/pdf/2505.15379
     code: https://github.com/raphaelsulzer/PixelsPointsPolygons

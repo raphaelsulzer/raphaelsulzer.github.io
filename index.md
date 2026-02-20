@@ -8,9 +8,11 @@ I am postdoctoral researcher in the <a href="https://team.inria.fr/titane/team/"
 
 ## News
 
-- **[Nov. 2024]** Our Survey and Benchmark for Surface Reconstruction is accepted at PAMI
-- **[Jul. 2024]** Our Low-Poly Surface and Volume Modeling paper is accepted at ECCV 2024
-- **[Apr. 2024]** Our SimpliCity paper is accepted at CVPR Workshop on Urban Scene Modeling
+- **[Jan. 2026]** Our Dataset and Benchmark for Multimodal Building Footprint Vectorization is accepted at ISPRS 2026 in Toronto
+- **[Dec. 2025]** LuxCarta is participating in the generation of the French Digital Twin
+- **[Nov. 2024]** Our Survey and Benchmark for Surface Reconstruction is accepted at TPAMI
+- **[Jul. 2024]** Our Low-Poly Surface and Volume Modeling paper is accepted at ECCV 2024 in Milan
+- **[Apr. 2024]** Our SimpliCity paper is accepted at CVPR Workshop on Urban Scene Modeling in Seattle
 <!-- - **[Nov. 2023]** I join LuxCarta Technology as a research engineer -->
 <!-- - **[Nov. 2022]** I join INRIA as a postdoctoral researcher --> 
 <!-- - **[Oct. 2022]** Our benchmark paper for surface mesh reconstruction is accepted at PE&RS journal -->
@@ -20,10 +22,10 @@ I am postdoctoral researcher in the <a href="https://team.inria.fr/titane/team/"
 ## Research Interests
 
 - **Computer Vision:** 3D Scene Understanding and Reconstruction 
+- **Geographic Information Systems:** 2D and 3D Urban Modeling
 - **Geometry Processing:** Arrangements, Triangulations, Surface and Volume Modeling  
-- **GIS:** 2D and 3D Urban Modeling
 - **Machine Learning:** Geometry-Aware Learning  
-- **Remote Sensing:** Point Cloud Processing, Aerial and Satellite Image Analysis
+- **Remote Sensing:** Point Cloud, Aerial and Satellite Image Processing
 
 
 {% include_relative _includes/publications.md %}

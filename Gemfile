@@ -26,5 +26,4 @@ source "https://rubygems.org"
 # Use GitHub Pages as the Jekyll version manager
 gem "github-pages", group: :jekyll_plugins
 
-# Add Webrick (needed for Ruby 3.x)
-gem "webrick", "~> 1.8"
+# Webrick is provided by github-pages; no need to add it explicitly.

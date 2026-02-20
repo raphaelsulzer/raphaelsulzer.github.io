@@ -92,9 +92,10 @@ Install and run:
 
 ```bash
 bundle install
-bundle add webrick
 bundle exec jekyll server
 ```
+
+Note: `webrick` is already provided via `github-pages`, so do **not** add it separately. Adding it manually can cause Bundler conflicts.
 
 UPDATE 13/12/2025: bundle jekyll server fails with SSL error, fix with
 https://github.com/ruby/openssl/issues/949#issuecomment-3367944960
