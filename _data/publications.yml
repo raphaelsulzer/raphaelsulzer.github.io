@@ -26,6 +26,7 @@ main:
     conference: CVPR Workshop on Urban Scene Modeling
     image: ./assets/img/publications/clipped/19634_opticity.jpg
     pdf: ./assets/files/publications/simplicity.pdf
+    poster: ./assets/files/publications/simplicity_poster.pdf
     year: 2024
     video: https://www.youtube.com/watch?v=3tj1Co0fdEA&ab_channel=LuxCarta
 
