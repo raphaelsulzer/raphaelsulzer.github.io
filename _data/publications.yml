@@ -6,6 +6,7 @@ main:
     image: ./assets/img/publications/ppp.jpg
     pdf: https://arxiv.org/pdf/2505.15379
     code: https://github.com/raphaelsulzer/PixelsPointsPolygons
+    slides: ./assets/files/slides/P3-ISPRS-2026.pdf
     data: https://huggingface.co/datasets/rsi/PixelsPointsPolygons
     year: 2025
 
