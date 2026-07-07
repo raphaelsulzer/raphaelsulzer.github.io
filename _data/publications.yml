@@ -28,7 +28,7 @@ main:
     image: ./assets/img/publications/clipped/19634_opticity.jpg
     pdf: ./assets/files/publications/simplicity.pdf
     poster: ./assets/files/publications/simplicity_poster.pdf
-    slides: ./assets/files/slides/Simplicity_CVPR_2024.pdf
+    slides: ./assets/files/slides/Simplicity_CVPR_2024_.pdf
     year: 2024
     video: https://www.youtube.com/watch?v=3tj1Co0fdEA&ab_channel=LuxCarta
 
