@@ -28,6 +28,7 @@ main:
     image: ./assets/img/publications/clipped/19634_opticity.jpg
     pdf: ./assets/files/publications/simplicity.pdf
     poster: ./assets/files/publications/simplicity_poster.pdf
+    slides: ./assets/files/slides/Simplicity_CVPR_2024.pdf
     year: 2024
     video: https://www.youtube.com/watch?v=3tj1Co0fdEA&ab_channel=LuxCarta
 
@@ -55,6 +56,7 @@ main:
     image: ./assets/img/publications/clipped/thesis.jpg
     pdf: https://hal.science/tel-03968622v2/document
     video: https://www.youtube.com/watch?v=uSbVhtTQG_k&t=5s&ab_channel=EquipeACTE-LaSTIG-ENSG
+    slides: ./assets/files/slides/defense_thesis.pdf
     year: 2022
 
   - title: "Deep Surface Reconstruction from Point Clouds with Visibility Information"
