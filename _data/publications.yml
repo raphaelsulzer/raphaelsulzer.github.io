@@ -56,7 +56,7 @@ main:
     image: ./assets/img/publications/clipped/thesis.jpg
     pdf: https://hal.science/tel-03968622v2/document
     video: https://www.youtube.com/watch?v=uSbVhtTQG_k&t=5s&ab_channel=EquipeACTE-LaSTIG-ENSG
-    slides: ./assets/files/slides/defense_thesis.pdf
+    slides: ./assets/files/slides/phd_defense.pdf
     year: 2022
 
   - title: "Deep Surface Reconstruction from Point Clouds with Visibility Information"
