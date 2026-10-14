@@ -10,7 +10,7 @@
 <div class="pub-row" style="display: flex; align-items: flex-start;">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     {% if link.image %} 
-    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%;vertical-align:middle;">
+    <img src="{{ link.image }}" alt="{{ link.title | strip_html }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%;vertical-align:middle;">
     {% endif %}
     {% if link.conference_short %} 
     <abbr class="badge">{{ link.conference_short }}</abbr>

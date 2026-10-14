@@ -1,7 +1,7 @@
 main:
   - title: "The P<sup>3</sup> Dataset: Pixels, Points and Polygons for Multimodal Building Vectorization"
     authors: <strong>Raphael Sulzer</strong>, Liuyun Duan, Nicolas Girard, Florent Lafarge
-    conference_short: ISPRS
+    conference_short: ISPRS & P&RS
     conference: ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences
     image: ./assets/img/publications/ppp.jpg
     pdf: https://arxiv.org/pdf/2505.15379
@@ -29,11 +29,12 @@ main:
     pdf: ./assets/files/publications/simplicity.pdf
     poster: ./assets/files/publications/simplicity_poster.pdf
     slides: ./assets/files/slides/Simplicity_CVPR_2024_.pdf
+    code: https://www.luxcarta.com/simplicity
     year: 2024
     video: https://www.youtube.com/watch?v=3tj1Co0fdEA&ab_channel=LuxCarta
 
   - title: "A Survey and Benchmark of Automatic Surface Reconstruction from Point Clouds"
-    authors: <strong>Raphael Sulzer</strong>, Renaud Marlet, Bruno Vallet, Loic Landrieu
+    authors: <strong>Raphael Sulzer</strong>, Renaud Marlet, Bruno Vallet, Loïc Landrieu
     conference_short: TPAMI
     conference: IEEE Transactions on Pattern Analysis and Machine Intelligence
     image: ./assets/img/publications/clipped/benchmark.jpg
@@ -47,6 +48,7 @@ main:
     conference: Photogrammetric Engineering & Remote Sensing
     image: ./assets/img/publications/terrace_mvs_sensor.png
     pdf: ./assets/files/publications/evaluating.pdf
+    code: https://github.com/umrlastig/SurfaceReconEval
     year: 2023
 
   - title: "Learning Surface Reconstruction from Point Clouds in the Wild"
@@ -60,7 +62,7 @@ main:
     year: 2022
 
   - title: "Deep Surface Reconstruction from Point Clouds with Visibility Information"
-    authors: <strong>Raphael Sulzer</strong>, Loic Landrieu, Alexandre Boulch, Renaud Marlet, Bruno Vallet
+    authors: <strong>Raphael Sulzer</strong>, Loïc Landrieu, Alexandre Boulch, Renaud Marlet, Bruno Vallet
     conference_short: ICPR
     conference: International Conference on Pattern Recognition
     image: ./assets/img/publications/clipped/dsrv.jpg
@@ -70,13 +72,14 @@ main:
     year: 2022
 
   - title: "Scalable Surface Reconstruction with Delaunay-Graph Neural Networks"
-    authors: <strong>Raphael Sulzer</strong>, Loic Landrieu, Renaud Marlet, Bruno Vallet
+    authors: <strong>Raphael Sulzer</strong>, Loïc Landrieu, Renaud Marlet, Bruno Vallet
     conference_short: SGP
     conference: Computer Graphics Forum
     image: ./assets/img/publications/image13.jpg
     video: https://www.youtube.com/watch?v=KIrCDGhS10o&ab_channel=EquipeACTE-LaSTIG-ENSG
     pdf: https://arxiv.org/pdf/2107.06130.pdf
     code: https://github.com/raphaelsulzer/dgnn
+    slides: ./assets/files/slides/DGNN_at_AI4GEO.pptx.pdf
     year: 2021
 
   - title: "Shape Based Classification of Seismic Building Structural Types"
